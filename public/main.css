@@ -3,23 +3,30 @@ html{
 
 }
 
+.lead{
+  font-size: 2rem;
+}
+
+#top-section{
+
+  background-color: white;
+}
+
 body{
-  margin-left: 7%;
-  margin-right: 7%;
-  margin-top: 1%;
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FDFFFF), to(#caf0f8));
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ADE8F4), to(#ADE8F4));
 
   /* Safari 5.1, Chrome 10+ */
-  background: -webkit-linear-gradient(top, #FDFFFF, #caf0f8);
+  /*background: -webkit-linear-gradient(top, #FDFFFF, #caf0f8);*/
+  background: -webkit-linear-gradient(top, #ADE8F4, #ADE8F4);
 
   /* Firefox 3.6+ */
-  background: -moz-linear-gradient(top, #FDFFFF, #caf0f8);
+  background: -moz-linear-gradient(top, #ADE8F4, #ADE8F4);
 
   /* IE 10 */
-  background: -ms-linear-gradient(top, #FDFFFF, #caf0f8);
+  background: -ms-linear-gradient(top, #ADE8F4, #ADE8F4);
 
   /* Opera 11.10+ */
-  background: -o-linear-gradient(top, #FDFFFF, #caf0f8);
+  background: -o-linear-gradient(top, #ADE8F4, #ADE8F4);
 
   background-attachment: fixed;
 }
@@ -31,12 +38,86 @@ a{
   width: 4vw;
 }
 
-h1{
-  font-size: 3rem;
+@media (min-width: 0px) {
+  #name {
+
+    font-size: 2.5rem;
+  }
+
+  #intro {
+    font-size: 1.3rem;
+    font-weight: 400;
+  }
+  #buffer {
+    height: 6rem;
+  }
+}
+
+@media (min-width: 576px) {
+  #name{
+
+    font-size: 2.5rem;
+  }
+
+  #intro{
+    font-size: 1.3rem;
+    font-weight: 400;
+  }
+  #buffer {
+    height: 8rem;
+  }
+}
+
+@media (min-width: 768px) {
+  #name{
+
+    font-size: 2.8rem;
+  }
+
+  #intro{
+    font-size: 1.8rem;
+    font-weight: 400;
+  }
+  #buffer {
+    height: 10rem;
+  }
+}
+
+@media (min-width: 992px) {
+  #name{
+
+    font-size: 3rem;
+  }
+
+  #intro{
+    font-size: 1.7rem;
+    font-weight: 400;
+  }
+
+  #buffer {
+    height: 12rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  #name{
+
+    font-size: 3.5rem;
+  }
+
+  #intro{
+    font-size: 2rem;
+    font-weight: 400;
+  }
+  #buffer {
+    height: 14rem;
+  }
 }
 
 
-
+h1{
+  font-size: 3.5rem;
+}
 
 
 

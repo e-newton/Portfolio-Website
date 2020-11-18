@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3250f4e-9d33-451f-95a8-da12a7d953d5" name="Default Changelist" comment="" />
+    <list default="true" id="e3250f4e-9d33-451f-95a8-da12a7d953d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/3f5cd858c617856391350f6c6d53d8aa.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/method-draw-image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/picture-jp2.jp2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/timesheet-white.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/timesheet.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kGgf0SB9EsJhK7TEcofxpmVQuZ" />
   <component name="ProjectViewState">
@@ -22,10 +37,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.codota.intellij.common.configuration.CodotaConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ericn\WebstormProjects\Portfolio-Website\public" />
+      <recent name="C:\Users\ericn\WebstormProjects\Portfolio-Website\public\img" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
@@ -70,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605332442153</updated>
       <workItem from="1605332445927" duration="14837000" />
+      <workItem from="1605657967729" duration="17714000" />
     </task>
     <servers />
   </component>
@@ -77,25 +96,45 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605556887934">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="1317" y="599" key="FileChooserDialogImpl" timestamp="1605670907969">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1317" y="599" key="FileChooserDialogImpl/0.0.3072.1688/998.-1080.1920.1080@0.0.3072.1688" timestamp="1605670907969" />
+    <state width="3029" height="493" key="GridCell.Tab.0.bottom" timestamp="1605674440738">
+      <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605556887934" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605556887933">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="3029" height="493" key="GridCell.Tab.0.bottom/0.0.3072.1688/998.-1080.1920.1080@0.0.3072.1688" timestamp="1605674440738" />
+    <state width="3029" height="493" key="GridCell.Tab.0.center" timestamp="1605674440738">
+      <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605556887933" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605556887927">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="3029" height="493" key="GridCell.Tab.0.center/0.0.3072.1688/998.-1080.1920.1080@0.0.3072.1688" timestamp="1605674440738" />
+    <state width="3029" height="493" key="GridCell.Tab.0.left" timestamp="1605674440738">
+      <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605556887927" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605556887933">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="3029" height="493" key="GridCell.Tab.0.left/0.0.3072.1688/998.-1080.1920.1080@0.0.3072.1688" timestamp="1605674440738" />
+    <state width="3029" height="493" key="GridCell.Tab.0.right" timestamp="1605674440738">
+      <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605556887933" />
+    <state width="3029" height="493" key="GridCell.Tab.0.right/0.0.3072.1688/998.-1080.1920.1080@0.0.3072.1688" timestamp="1605674440738" />
+    <state x="1813" y="489" key="SettingsEditor" timestamp="1605658064691">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1813" y="489" key="SettingsEditor/0.0.3072.1688/998.-1080.1920.1080@0.0.3072.1688" timestamp="1605658064691" />
+    <state x="1193" y="403" key="run.anything.popup" timestamp="1605673310192">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1193" y="403" key="run.anything.popup/0.0.3072.1688/998.-1080.1920.1080@0.0.3072.1688" timestamp="1605673310192" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1605387959575">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1605387959575" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
