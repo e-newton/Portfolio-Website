@@ -1,0 +1,42 @@
+html{
+  height: 100%;
+
+}
+
+body{
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-top: 1%;
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FDFFFF), to(#caf0f8));
+
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(top, #FDFFFF, #caf0f8);
+
+  /* Firefox 3.6+ */
+  background: -moz-linear-gradient(top, #FDFFFF, #caf0f8);
+
+  /* IE 10 */
+  background: -ms-linear-gradient(top, #FDFFFF, #caf0f8);
+
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(top, #FDFFFF, #caf0f8);
+
+  background-attachment: fixed;
+}
+a{
+  color: #555555;
+}
+
+.navbar-buffer{
+  width: 4vw;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+
+
+
+
+
